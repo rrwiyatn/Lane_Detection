@@ -32,6 +32,7 @@ int filter[32]= {*, *, *, *, *, *, *, *,
 
 int main ()
 {
+	//replace i with # of frames need to be processed
 	for(int i=700;i<710;i++)
 	{
 		char input[50]={};
