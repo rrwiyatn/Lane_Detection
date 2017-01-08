@@ -1,2 +1,2 @@
-# Lane_Detection
-Lane Detection Algorithm for Cars.
+# Image Convolution + Thresholding
+Simple image convolution and thresholding algorithm
