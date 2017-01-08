@@ -25,10 +25,9 @@ void writeImage(int k, std::string s);
 //Filters
 //replace with the correct filter
 int filter[32]= {*, *, *, *, *, *, *, *,
-        		 *, *, *, *, *, *, *, *,
-				 *, *, *, *, *, *, *, *,
-				 *, *, *, *, *, *, *, *};
-//
+        	*, *, *, *, *, *, *, *,
+		*, *, *, *, *, *, *, *,
+		*, *, *, *, *, *, *, *};
 
 int main ()
 {
